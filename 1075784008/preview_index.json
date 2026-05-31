@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "1075784008",
-  "updated_at": "2026-05-31T05:28:36+00:00",
+  "updated_at": "2026-05-31T05:29:53+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の咪的日常碎片",
@@ -74,6 +74,12 @@
       "file": "Xx睡不醒の浅夏出游记.bdi",
       "thumb": "Xx睡不醒の浅夏出游记.bdi_py_26_light_thumb.png",
       "full": "Xx睡不醒の浅夏出游记.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "Xx睡不醒の咪的日常碎片无漂浮",
+      "file": "Xx睡不醒の咪的日常碎片无漂浮.bdi",
+      "thumb": "Xx睡不醒の咪的日常碎片无漂浮.bdi_py_26_light_thumb.png",
+      "full": "Xx睡不醒の咪的日常碎片无漂浮.bdi_py_26_light_thumb.png"
     }
   ]
 }
