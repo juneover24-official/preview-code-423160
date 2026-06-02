@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "1075784008",
-  "updated_at": "2026-05-31T05:44:38+00:00",
+  "updated_at": "2026-06-02T04:47:46+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の咪的日常碎片",
@@ -92,6 +92,12 @@
       "file": "Xx睡不醒の甜酷女孩.bdi",
       "thumb": "Xx睡不醒の甜酷女孩.bdi_py_26_light_thumb.png",
       "full": "Xx睡不醒の甜酷女孩.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "Xx睡不醒の番茄小熊",
+      "file": "Xx睡不醒の番茄小熊.bds",
+      "thumb": "Xx睡不醒の番茄小熊.bds_py_26_light_thumb.png",
+      "full": "Xx睡不醒の番茄小熊.bds_py_26_light_thumb.png"
     }
   ]
 }
