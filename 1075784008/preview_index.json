@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "1075784008",
-  "updated_at": "2026-06-08T06:46:14+00:00",
+  "updated_at": "2026-06-08T06:46:44+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の咪的日常碎片",
@@ -154,12 +154,6 @@
       "full": "Xx睡不醒の熊喵甜趣日常.bdi_py_26_light_thumb.png"
     },
     {
-      "name": "Xx睡不醒の熊喵甜趣日常",
-      "file": "Xx睡不醒の熊喵甜趣日常无漂浮.bds",
-      "thumb": "Xx睡不醒の熊喵甜趣日常无漂浮.bds_py_26_light_thumb.png",
-      "full": "Xx睡不醒の熊喵甜趣日常无漂浮.bds_py_26_light_thumb.png"
-    },
-    {
       "name": "Xx睡不醒の熊喵甜趣日常无漂浮",
       "file": "Xx睡不醒の熊喵甜趣日常无漂浮.bdi",
       "thumb": "Xx睡不醒の熊喵甜趣日常无漂浮.bdi_py_26_light_thumb.png",
@@ -188,6 +182,12 @@
       "file": "Xx睡不醒の熊喵甜趣日常无漂浮脆.bdi",
       "thumb": "Xx睡不醒の熊喵甜趣日常无漂浮脆.bdi_py_26_light_thumb.png",
       "full": "Xx睡不醒の熊喵甜趣日常无漂浮脆.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "Xx睡不醒の熊喵甜趣日常",
+      "file": "Xx睡不醒の熊喵甜趣日常无漂浮.bds",
+      "thumb": "Xx睡不醒の熊喵甜趣日常无漂浮.bds_py_26_light_thumb.png",
+      "full": "Xx睡不醒の熊喵甜趣日常无漂浮.bds_py_26_light_thumb.png"
     }
   ]
 }
