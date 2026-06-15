@@ -1,13 +1,19 @@
 {
   "qq_number": "423160",
   "group_number": "940740395",
+  "updated_at": "2026-06-15T07:01:44+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の悠闲蛙蛙",
       "file": "Xx睡不醒の悠闲蛙蛙.bdi",
       "thumb": "Xx睡不醒の悠闲蛙蛙.bdi_py_26_light_thumb.png",
       "full": "Xx睡不醒の悠闲蛙蛙.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "Xx睡不醒の悠闲蛙蛙",
+      "file": "Xx睡不醒の悠闲蛙蛙.bds",
+      "thumb": "Xx睡不醒の悠闲蛙蛙.bds_py_26_light_thumb.png",
+      "full": "Xx睡不醒の悠闲蛙蛙.bds_py_26_light_thumb.png"
     }
-  ],
-  "updated_at": "2026-06-15T07:01:32+00:00"
+  ]
 }
