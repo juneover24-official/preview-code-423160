@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "951089653",
-  "updated_at": "2026-06-30T06:33:17+00:00",
+  "updated_at": "2026-06-30T06:33:27+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の兔兔上学记",
@@ -170,6 +170,12 @@
       "file": "Xx睡不醒の贴贴抱抱熊.bdi",
       "thumb": "Xx睡不醒の贴贴抱抱熊.bdi_py_26_light_thumb.png",
       "full": "Xx睡不醒の贴贴抱抱熊.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "Xx睡不醒の贴贴抱抱熊",
+      "file": "Xx睡不醒の贴贴抱抱熊.bds",
+      "thumb": "Xx睡不醒の贴贴抱抱熊.bds_py_26_light_thumb.png",
+      "full": "Xx睡不醒の贴贴抱抱熊.bds_py_26_light_thumb.png"
     }
   ]
 }
