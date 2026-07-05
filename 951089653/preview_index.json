@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "951089653",
-  "updated_at": "2026-07-05T06:24:14+00:00",
+  "updated_at": "2026-07-05T06:24:23+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の兔兔上学记",
@@ -209,12 +209,6 @@
     },
     {
       "name": "Xx睡不醒の小食萌物集",
-      "file": "Xx睡不醒の小食萌物集1.bdi",
-      "thumb": "Xx睡不醒の小食萌物集1.bdi_py_26_light_thumb.png",
-      "full": "Xx睡不醒の小食萌物集1.bdi_py_26_light_thumb.png"
-    },
-    {
-      "name": "Xx睡不醒の小食萌物集",
       "file": "Xx睡不醒の小食萌物集1.bds",
       "thumb": "Xx睡不醒の小食萌物集1.bds_py_26_light_thumb.png",
       "full": "Xx睡不醒の小食萌物集1.bds_py_26_light_thumb.png"
@@ -230,6 +224,12 @@
       "file": "Xx睡不醒の小食萌物集.bdi",
       "thumb": "Xx睡不醒の小食萌物集.bdi_py_26_light_thumb.png",
       "full": "Xx睡不醒の小食萌物集.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "Xx睡不醒の小食萌物集",
+      "file": "Xx睡不醒の小食萌物集1.bdi",
+      "thumb": "Xx睡不醒の小食萌物集1.bdi_py_26_light_thumb.png",
+      "full": "Xx睡不醒の小食萌物集1.bdi_py_26_light_thumb.png"
     }
   ]
 }
