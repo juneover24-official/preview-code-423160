@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "829410411",
-  "updated_at": "2026-07-14T09:01:34+00:00",
+  "updated_at": "2026-07-16T08:47:03+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の童趣铅笔画",
@@ -20,6 +20,12 @@
       "file": "Xx睡不醒の童趣铅笔画-无背景.bdi",
       "thumb": "Xx睡不醒の童趣铅笔画-无背景.bdi_py_26_light_thumb.png",
       "full": "Xx睡不醒の童趣铅笔画-无背景.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "Xx睡不醒の软萌小鼻嘎",
+      "file": "Xx睡不醒の软萌小鼻嘎无漂浮.bdi",
+      "thumb": "Xx睡不醒の软萌小鼻嘎无漂浮.bdi_py_26_light_thumb.png",
+      "full": "Xx睡不醒の软萌小鼻嘎无漂浮.bdi_py_26_light_thumb.png"
     }
   ]
 }
