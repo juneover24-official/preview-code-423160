@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "829410411",
-  "updated_at": "2026-07-19T09:42:03+00:00",
+  "updated_at": "2026-07-23T08:41:49+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の童趣铅笔画",
@@ -68,6 +68,12 @@
       "file": "Xx睡不醒の丛林五小只闷.bds",
       "thumb": "Xx睡不醒の丛林五小只闷.bds_py_26_light_thumb.png",
       "full": "Xx睡不醒の丛林五小只闷.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "Xx睡不醒の夏日冰摊",
+      "file": "Xx睡不醒の夏日冰摊开场.bdi",
+      "thumb": "Xx睡不醒の夏日冰摊开场.bdi_py_26_light_thumb.png",
+      "full": "Xx睡不醒の夏日冰摊开场.bdi_py_26_light_thumb.png"
     }
   ]
 }
