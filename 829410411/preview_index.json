@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "829410411",
-  "updated_at": "2026-07-27T06:55:34+00:00",
+  "updated_at": "2026-07-27T06:57:52+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の童趣铅笔画",
@@ -116,6 +116,12 @@
       "file": "Xx睡不醒の小熊你个tomato无漂浮.bds",
       "thumb": "Xx睡不醒の小熊你个tomato无漂浮.bds_py_26_light_thumb.png",
       "full": "Xx睡不醒の小熊你个tomato无漂浮.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "Xx睡不醒の小熊你个tomato",
+      "file": "Xx睡不醒の小熊你个tomato无动效.bdi",
+      "thumb": "Xx睡不醒の小熊你个tomato无动效.bdi_py_26_light_thumb.png",
+      "full": "Xx睡不醒の小熊你个tomato无动效.bdi_py_26_light_thumb.png"
     }
   ]
 }
