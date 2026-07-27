@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "829410411",
-  "updated_at": "2026-07-27T06:59:09+00:00",
+  "updated_at": "2026-07-27T07:00:21+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の童趣铅笔画",
@@ -107,12 +107,6 @@
     },
     {
       "name": "Xx睡不醒の小熊你个tomato",
-      "file": "Xx睡不醒の小熊你个tomato无漂浮.bdi",
-      "thumb": "Xx睡不醒の小熊你个tomato无漂浮.bdi_py_26_light_thumb.png",
-      "full": "Xx睡不醒の小熊你个tomato无漂浮.bdi_py_26_light_thumb.png"
-    },
-    {
-      "name": "Xx睡不醒の小熊你个tomato",
       "file": "Xx睡不醒の小熊你个tomato无漂浮.bds",
       "thumb": "Xx睡不醒の小熊你个tomato无漂浮.bds_py_26_light_thumb.png",
       "full": "Xx睡不醒の小熊你个tomato无漂浮.bds_py_26_light_thumb.png"
@@ -128,6 +122,12 @@
       "file": "Xx睡不醒の小熊你个tomato.bdi",
       "thumb": "Xx睡不醒の小熊你个tomato.bdi_py_26_light_thumb.png",
       "full": "Xx睡不醒の小熊你个tomato.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "Xx睡不醒の小熊你个tomato",
+      "file": "Xx睡不醒の小熊你个tomato无漂浮.bdi",
+      "thumb": "Xx睡不醒の小熊你个tomato无漂浮.bdi_py_26_light_thumb.png",
+      "full": "Xx睡不醒の小熊你个tomato无漂浮.bdi_py_26_light_thumb.png"
     }
   ]
 }
