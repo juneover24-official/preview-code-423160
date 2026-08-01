@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "1091729097",
-  "updated_at": "2026-08-01T02:04:29+00:00",
+  "updated_at": "2026-08-01T02:05:02+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の小猫记事簿",
@@ -98,6 +98,12 @@
       "file": "Xx睡不醒の暴力熊日常无漂浮.bdi",
       "thumb": "Xx睡不醒の暴力熊日常无漂浮.bdi_py_26_light_thumb.png",
       "full": "Xx睡不醒の暴力熊日常无漂浮.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "Xx睡不醒の暴力熊日常",
+      "file": "Xx睡不醒の暴力熊日常.bdi",
+      "thumb": "Xx睡不醒の暴力熊日常.bdi_py_26_light_thumb.png",
+      "full": "Xx睡不醒の暴力熊日常.bdi_py_26_light_thumb.png"
     }
   ]
 }
