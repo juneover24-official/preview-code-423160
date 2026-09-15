@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "1085266184",
-  "updated_at": "2026-09-15T03:02:46+00:00",
+  "updated_at": "2026-09-15T03:02:57+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の秋日拿铁",
@@ -26,17 +26,17 @@
     },
     {
       "name": "Xx睡不醒の秋日拿铁",
-      "file": "Xx睡不醒の秋日拿铁机械音.bdi",
-      "thumb": "Xx睡不醒の秋日拿铁机械音.bdi_py_26_light_thumb.png",
-      "full": "Xx睡不醒の秋日拿铁机械音.bdi_py_26_light_thumb.png",
-      "file_id": "0dbec86678ed6e8a2a50a82007dbc210"
-    },
-    {
-      "name": "Xx睡不醒の秋日拿铁",
       "file": "Xx睡不醒の秋日拿铁机械音-无背景.bdi",
       "thumb": "Xx睡不醒の秋日拿铁机械音-无背景.bdi_py_26_light_thumb.png",
       "full": "Xx睡不醒の秋日拿铁机械音-无背景.bdi_py_26_light_thumb.png",
       "file_id": "83a044cf8ed4e467594c34788d810d3a"
+    },
+    {
+      "name": "Xx睡不醒の秋日拿铁",
+      "file": "Xx睡不醒の秋日拿铁机械音.bdi",
+      "thumb": "Xx睡不醒の秋日拿铁机械音.bdi_py_26_light_thumb.png",
+      "full": "Xx睡不醒の秋日拿铁机械音.bdi_py_26_light_thumb.png",
+      "file_id": "0dbec86678ed6e8a2a50a82007dbc210"
     }
   ]
 }
