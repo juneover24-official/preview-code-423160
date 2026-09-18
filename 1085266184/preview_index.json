@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "1085266184",
-  "updated_at": "2026-09-18T05:47:20+00:00",
+  "updated_at": "2026-09-18T05:48:02+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の秋日拿铁",
@@ -67,13 +67,6 @@
       "file_id": "6066ba3c22054bfb5c699f49c010bc6c"
     },
     {
-      "name": "Xx睡不醒の日常吃瓜摸鱼闷",
-      "file": "Xx睡不醒の日常吃瓜摸鱼闷.bds",
-      "thumb": "Xx睡不醒の日常吃瓜摸鱼闷.bds_py_26_light_thumb.png",
-      "full": "Xx睡不醒の日常吃瓜摸鱼闷.bds_py_26_light_thumb.png",
-      "file_id": "8e854fec4ae163d74ae9714e64299dc7"
-    },
-    {
       "name": "Xx睡不醒の日常吃瓜摸鱼",
       "file": "Xx睡不醒の日常吃瓜摸鱼脆.bds",
       "thumb": "Xx睡不醒の日常吃瓜摸鱼脆.bds_py_26_light_thumb.png",
@@ -100,6 +93,13 @@
       "thumb": "Xx睡不醒の日常吃瓜摸鱼闷-无背景.bdi_py_26_light_thumb.png",
       "full": "Xx睡不醒の日常吃瓜摸鱼闷-无背景.bdi_py_26_light_thumb.png",
       "file_id": "a9381e8ebc067ee33798365f9e56a88e"
+    },
+    {
+      "name": "Xx睡不醒の日常吃瓜摸鱼",
+      "file": "Xx睡不醒の日常吃瓜摸鱼闷.bds",
+      "thumb": "Xx睡不醒の日常吃瓜摸鱼闷.bds_py_26_light_thumb.png",
+      "full": "Xx睡不醒の日常吃瓜摸鱼闷.bds_py_26_light_thumb.png",
+      "file_id": "8e854fec4ae163d74ae9714e64299dc7"
     }
   ]
 }
