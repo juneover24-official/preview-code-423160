@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "1085266184",
-  "updated_at": "2026-09-18T05:48:45+00:00",
+  "updated_at": "2026-09-18T05:51:23+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の秋日拿铁",
@@ -100,6 +100,13 @@
       "thumb": "Xx睡不醒の日常吃瓜摸鱼脆.bds_py_26_light_thumb.png",
       "full": "Xx睡不醒の日常吃瓜摸鱼脆.bds_py_26_light_thumb.png",
       "file_id": "8c21507c580daff34c5dd8baac56583d"
+    },
+    {
+      "name": "Xx睡不醒の贪睡小兔",
+      "file": "Xx睡不醒の贪睡小兔无漂浮.bds",
+      "thumb": "Xx睡不醒の贪睡小兔无漂浮.bds_py_26_light_thumb.png",
+      "full": "Xx睡不醒の贪睡小兔无漂浮.bds_py_26_light_thumb.png",
+      "file_id": "6985b913ff20decb40c98c61f9d4c898"
     }
   ]
 }
