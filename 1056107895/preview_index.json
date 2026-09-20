@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "1056107895",
-  "updated_at": "2026-09-20T09:35:39+00:00",
+  "updated_at": "2026-09-20T09:36:13+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の都市萌宠",
@@ -23,6 +23,13 @@
       "thumb": "Xx睡不醒の香蕉dog开场.bdi_py_26_light_thumb.png",
       "full": "Xx睡不醒の香蕉dog开场.bdi_py_26_light_thumb.png",
       "file_id": "c31af15cfd6aa5bfae6c58f8d1117a27"
+    },
+    {
+      "name": "Xx睡不醒の香蕉dog",
+      "file": "Xx睡不醒の香蕉dog闷.bdi",
+      "thumb": "Xx睡不醒の香蕉dog闷.bdi_py_26_light_thumb.png",
+      "full": "Xx睡不醒の香蕉dog闷.bdi_py_26_light_thumb.png",
+      "file_id": "fa3785525d0570b64e0e70ef09745155"
     }
   ]
 }
