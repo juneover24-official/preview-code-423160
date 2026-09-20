@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "1056107895",
-  "updated_at": "2026-09-20T09:44:00+00:00",
+  "updated_at": "2026-09-20T09:44:59+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の都市萌宠",
@@ -107,6 +107,13 @@
       "thumb": "Xx睡不醒の肌肉熊面包坊黄底.bdi_py_26_light_thumb.png",
       "full": "Xx睡不醒の肌肉熊面包坊黄底.bdi_py_26_light_thumb.png",
       "file_id": "a11529c58c7f307926647505a6a5fc56"
+    },
+    {
+      "name": "Xx睡不醒の火鸡啾啾美食记",
+      "file": "Xx睡不醒の火鸡啾啾美食记脆.bdi",
+      "thumb": "Xx睡不醒の火鸡啾啾美食记脆.bdi_py_26_light_thumb.png",
+      "full": "Xx睡不醒の火鸡啾啾美食记脆.bdi_py_26_light_thumb.png",
+      "file_id": "ad5cb5aa24c50fcf4b8e5d10cfa42580"
     }
   ]
 }
