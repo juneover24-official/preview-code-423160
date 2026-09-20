@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "1085266184",
-  "updated_at": "2026-09-20T04:14:52+00:00",
+  "updated_at": "2026-09-20T04:15:30+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の秋日拿铁",
@@ -159,13 +159,6 @@
     },
     {
       "name": "Xx睡不醒の厨房泡泡贴",
-      "file": "Xx睡不醒の厨房泡泡贴脆.bdi",
-      "thumb": "Xx睡不醒の厨房泡泡贴脆.bdi_py_26_light_thumb.png",
-      "full": "Xx睡不醒の厨房泡泡贴脆.bdi_py_26_light_thumb.png",
-      "file_id": "724354c9ba48bf67fa63adb0552ebc76"
-    },
-    {
-      "name": "Xx睡不醒の厨房泡泡贴",
       "file": "Xx睡不醒の厨房泡泡贴闷.bdi",
       "thumb": "Xx睡不醒の厨房泡泡贴闷.bdi_py_26_light_thumb.png",
       "full": "Xx睡不醒の厨房泡泡贴闷.bdi_py_26_light_thumb.png",
@@ -177,6 +170,13 @@
       "thumb": "Xx睡不醒の厨房泡泡贴闷-无背景.bdi_py_26_light_thumb.png",
       "full": "Xx睡不醒の厨房泡泡贴闷-无背景.bdi_py_26_light_thumb.png",
       "file_id": "81303c66d8f4c032be1562c490501ff0"
+    },
+    {
+      "name": "Xx睡不醒の厨房泡泡贴",
+      "file": "Xx睡不醒の厨房泡泡贴脆.bdi",
+      "thumb": "Xx睡不醒の厨房泡泡贴脆.bdi_py_26_light_thumb.png",
+      "full": "Xx睡不醒の厨房泡泡贴脆.bdi_py_26_light_thumb.png",
+      "file_id": "724354c9ba48bf67fa63adb0552ebc76"
     }
   ]
 }
