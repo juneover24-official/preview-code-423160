@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "1056107895",
-  "updated_at": "2026-09-20T09:37:18+00:00",
+  "updated_at": "2026-09-20T09:38:44+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の都市萌宠",
@@ -37,6 +37,13 @@
       "thumb": "Xx睡不醒の学霸养成记.bdi_py_26_light_thumb.png",
       "full": "Xx睡不醒の学霸养成记.bdi_py_26_light_thumb.png",
       "file_id": "8fbcc7d8848bcbae5ea32352dec41b12"
+    },
+    {
+      "name": "Xx睡不醒の缤纷情绪集",
+      "file": "Xx睡不醒の缤纷情绪集闷.bdi",
+      "thumb": "Xx睡不醒の缤纷情绪集闷.bdi_py_26_light_thumb.png",
+      "full": "Xx睡不醒の缤纷情绪集闷.bdi_py_26_light_thumb.png",
+      "file_id": "da97c9028b2801af1e79502756044a7c"
     }
   ]
 }
