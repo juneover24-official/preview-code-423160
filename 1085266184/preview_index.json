@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "1085266184",
-  "updated_at": "2026-09-20T04:26:06+00:00",
+  "updated_at": "2026-09-20T04:26:42+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の秋日拿铁",
@@ -191,6 +191,13 @@
       "thumb": "Xx睡不醒の厨房泡泡贴脆.bds_py_26_light_thumb.png",
       "full": "Xx睡不醒の厨房泡泡贴脆.bds_py_26_light_thumb.png",
       "file_id": "81225a6f66401b90705c686015696a53"
+    },
+    {
+      "name": "Xx睡不醒の厨房泡泡贴",
+      "file": "Xx睡不醒の厨房泡泡贴闷.bds",
+      "thumb": "Xx睡不醒の厨房泡泡贴闷.bds_py_26_light_thumb.png",
+      "full": "Xx睡不醒の厨房泡泡贴闷.bds_py_26_light_thumb.png",
+      "file_id": "3964ba4314b8d19866c766763cb2e6ea"
     }
   ]
 }
