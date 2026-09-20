@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "1056107895",
-  "updated_at": "2026-09-20T09:41:37+00:00",
+  "updated_at": "2026-09-20T09:41:59+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の都市萌宠",
@@ -72,6 +72,13 @@
       "thumb": "Xx睡不醒の海底小玩伴1.bdi_py_26_light_thumb.png",
       "full": "Xx睡不醒の海底小玩伴1.bdi_py_26_light_thumb.png",
       "file_id": "9691cb09894d2fd41ae0b7a01caa89cb"
+    },
+    {
+      "name": "Xx睡不醒の黑煤球团子",
+      "file": "Xx睡不醒の黑煤球团子闷.bdi",
+      "thumb": "Xx睡不醒の黑煤球团子闷.bdi_py_26_light_thumb.png",
+      "full": "Xx睡不醒の黑煤球团子闷.bdi_py_26_light_thumb.png",
+      "file_id": "4ab47434e55b40feee67c8fb280fa5b9"
     }
   ]
 }
