@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "1085266184",
-  "updated_at": "2026-09-22T03:48:28+00:00",
+  "updated_at": "2026-09-22T03:49:16+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の秋日拿铁",
@@ -229,17 +229,17 @@
     },
     {
       "name": "Xx睡不醒の小猫下厨记",
-      "file": "Xx睡不醒の小猫下厨记闷.bdi",
-      "thumb": "Xx睡不醒の小猫下厨记闷.bdi_py_26_light_thumb.png",
-      "full": "Xx睡不醒の小猫下厨记闷.bdi_py_26_light_thumb.png",
-      "file_id": "769b5de5f6798efc475323c5e488b524"
-    },
-    {
-      "name": "Xx睡不醒の小猫下厨记",
       "file": "Xx睡不醒の小猫下厨记脆.bdi",
       "thumb": "Xx睡不醒の小猫下厨记脆.bdi_py_26_light_thumb.png",
       "full": "Xx睡不醒の小猫下厨记脆.bdi_py_26_light_thumb.png",
       "file_id": "1c5f2c4e07d9b57ffa2f24da8e33d61a"
+    },
+    {
+      "name": "Xx睡不醒の小猫下厨记",
+      "file": "Xx睡不醒の小猫下厨记闷.bdi",
+      "thumb": "Xx睡不醒の小猫下厨记闷.bdi_py_26_light_thumb.png",
+      "full": "Xx睡不醒の小猫下厨记闷.bdi_py_26_light_thumb.png",
+      "file_id": "769b5de5f6798efc475323c5e488b524"
     }
   ]
 }
