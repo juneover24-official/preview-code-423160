@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "829410411",
-  "updated_at": "2026-08-03T08:52:59+00:00",
+  "updated_at": "2026-09-25T08:27:20+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の童趣铅笔画",
@@ -206,6 +206,13 @@
       "file": "Xx睡不醒の摸鱼干饭喵脆.bds",
       "thumb": "Xx睡不醒の摸鱼干饭喵脆.bds_py_26_light_thumb.png",
       "full": "Xx睡不醒の摸鱼干饭喵脆.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "Xx睡不醒の宅家休闲时光",
+      "file": "Xx睡不醒の宅家休闲食光脆.bdi",
+      "thumb": "Xx睡不醒の宅家休闲食光脆.bdi_py_26_light_thumb.png",
+      "full": "Xx睡不醒の宅家休闲食光脆.bdi_py_26_light_thumb.png",
+      "file_id": "7bf6496abb262fc785cc6083fc54553b"
     }
   ]
 }
