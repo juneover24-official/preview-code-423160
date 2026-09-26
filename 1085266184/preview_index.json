@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "1085266184",
-  "updated_at": "2026-09-26T04:50:54+00:00",
+  "updated_at": "2026-09-26T04:50:59+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の秋日拿铁",
@@ -268,13 +268,6 @@
       "thumb": "Xx睡不醒の秋日露营闷.bds_py_26_light_thumb.png",
       "full": "Xx睡不醒の秋日露营闷.bds_py_26_light_thumb.png",
       "file_id": "d36d3c3bea76f4ce33e8b6bb4a77d26e"
-    },
-    {
-      "name": "Xx睡不醒の草莓屋",
-      "file": "Xx睡不醒の草莓屋.bdi",
-      "thumb": "Xx睡不醒の草莓屋.bdi_py_26_light_thumb.png",
-      "full": "Xx睡不醒の草莓屋.bdi_py_26_light_thumb.png",
-      "file_id": "c2fa57ef823e3ac8a4450ebab83cb185"
     }
   ]
 }
