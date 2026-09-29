@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "1085266184",
-  "updated_at": "2026-09-29T06:23:05+00:00",
+  "updated_at": "2026-09-29T06:23:10+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の秋日拿铁",
@@ -299,17 +299,17 @@
     },
     {
       "name": "Xx睡不醒の小熊甜品铺",
-      "file": "Xx睡不醒の小熊甜品铺脆.bds",
-      "thumb": "Xx睡不醒の小熊甜品铺脆.bds_py_26_light_thumb.png",
-      "full": "Xx睡不醒の小熊甜品铺脆.bds_py_26_light_thumb.png",
-      "file_id": "4c751e5dd5a97a752874257b784bcf42"
-    },
-    {
-      "name": "Xx睡不醒の小熊甜品铺",
       "file": "Xx睡不醒の小熊甜品铺脆.bdi",
       "thumb": "Xx睡不醒の小熊甜品铺脆.bdi_py_26_light_thumb.png",
       "full": "Xx睡不醒の小熊甜品铺脆.bdi_py_26_light_thumb.png",
       "file_id": "baa768b9c0ad3ba51447dbc22a208169"
+    },
+    {
+      "name": "Xx睡不醒の小熊甜品铺",
+      "file": "Xx睡不醒の小熊甜品铺脆.bds",
+      "thumb": "Xx睡不醒の小熊甜品铺脆.bds_py_26_light_thumb.png",
+      "full": "Xx睡不醒の小熊甜品铺脆.bds_py_26_light_thumb.png",
+      "file_id": "4c751e5dd5a97a752874257b784bcf42"
     }
   ]
 }
