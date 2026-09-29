@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "1085266184",
-  "updated_at": "2026-09-29T06:24:12+00:00",
+  "updated_at": "2026-09-29T06:24:24+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の秋日拿铁",
@@ -285,13 +285,6 @@
     },
     {
       "name": "Xx睡不醒の小熊甜品铺",
-      "file": "Xx睡不醒の小熊甜品铺闷.bds",
-      "thumb": "Xx睡不醒の小熊甜品铺闷.bds_py_26_light_thumb.png",
-      "full": "Xx睡不醒の小熊甜品铺闷.bds_py_26_light_thumb.png",
-      "file_id": "fb10bc61a03d6d7382ad5049c95a7294"
-    },
-    {
-      "name": "Xx睡不醒の小熊甜品铺",
       "file": "Xx睡不醒の小熊甜品铺脆.bdi",
       "thumb": "Xx睡不醒の小熊甜品铺脆.bdi_py_26_light_thumb.png",
       "full": "Xx睡不醒の小熊甜品铺脆.bdi_py_26_light_thumb.png",
@@ -310,6 +303,13 @@
       "thumb": "Xx睡不醒の小熊甜品铺闷.bdi_py_26_light_thumb.png",
       "full": "Xx睡不醒の小熊甜品铺闷.bdi_py_26_light_thumb.png",
       "file_id": "a56ede9801f34dc1f12f2a03754990bf"
+    },
+    {
+      "name": "Xx睡不醒の小熊甜品铺",
+      "file": "Xx睡不醒の小熊甜品铺闷.bds",
+      "thumb": "Xx睡不醒の小熊甜品铺闷.bds_py_26_light_thumb.png",
+      "full": "Xx睡不醒の小熊甜品铺闷.bds_py_26_light_thumb.png",
+      "file_id": "fb10bc61a03d6d7382ad5049c95a7294"
     }
   ]
 }
