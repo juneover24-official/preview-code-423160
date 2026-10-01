@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "1063761206",
-  "updated_at": "2026-10-01T05:12:05+00:00",
+  "updated_at": "2026-10-01T05:12:22+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の彩绘小萌宠",
@@ -23,6 +23,13 @@
       "thumb": "Xx睡不醒の彩绘小萌宠脆.bdi_py_26_light_thumb.png",
       "full": "Xx睡不醒の彩绘小萌宠脆.bdi_py_26_light_thumb.png",
       "file_id": "2b8fc992cdae93a353fc53cd0cdcffdd"
+    },
+    {
+      "name": "Xx睡不醒の彩绘小萌宠",
+      "file": "Xx睡不醒の彩绘小萌宠脆.bds",
+      "thumb": "Xx睡不醒の彩绘小萌宠脆.bds_py_26_light_thumb.png",
+      "full": "Xx睡不醒の彩绘小萌宠脆.bds_py_26_light_thumb.png",
+      "file_id": "9e80b903ab9b293931b77c136644ac9a"
     }
   ]
 }
