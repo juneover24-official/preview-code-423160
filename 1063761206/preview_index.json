@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "1063761206",
-  "updated_at": "2026-10-01T05:12:56+00:00",
+  "updated_at": "2026-10-01T05:13:37+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の彩绘小萌宠",
@@ -9,13 +9,6 @@
       "thumb": "Xx睡不醒の彩绘小萌宠闷.bdi_py_26_light_thumb.png",
       "full": "Xx睡不醒の彩绘小萌宠闷.bdi_py_26_light_thumb.png",
       "file_id": "55b633d2c9d02b7d4f46d807a8485a8f"
-    },
-    {
-      "name": "Xx睡不醒の彩绘小萌宠",
-      "file": "Xx睡不醒の彩绘小萌宠闷.bds",
-      "thumb": "Xx睡不醒の彩绘小萌宠闷.bds_py_26_light_thumb.png",
-      "full": "Xx睡不醒の彩绘小萌宠闷.bds_py_26_light_thumb.png",
-      "file_id": "fbcfb35bcf98191cd910b652addf0a91"
     },
     {
       "name": "Xx睡不醒の彩绘小萌宠",
@@ -30,6 +23,13 @@
       "thumb": "Xx睡不醒の彩绘小萌宠脆.bds_py_26_light_thumb.png",
       "full": "Xx睡不醒の彩绘小萌宠脆.bds_py_26_light_thumb.png",
       "file_id": "9e80b903ab9b293931b77c136644ac9a"
+    },
+    {
+      "name": "Xx睡不醒の彩绘小萌宠",
+      "file": "Xx睡不醒の彩绘小萌宠闷.bds",
+      "thumb": "Xx睡不醒の彩绘小萌宠闷.bds_py_26_light_thumb.png",
+      "full": "Xx睡不醒の彩绘小萌宠闷.bds_py_26_light_thumb.png",
+      "file_id": "fbcfb35bcf98191cd910b652addf0a91"
     }
   ]
 }
