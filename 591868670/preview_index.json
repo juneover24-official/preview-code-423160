@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "591868670",
-  "updated_at": "2026-10-03T05:59:48+00:00",
+  "updated_at": "2026-10-03T06:00:54+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の牛仔莓果派对",
@@ -12,17 +12,17 @@
     },
     {
       "name": "Xx睡不醒の牛仔莓果派对",
-      "file": "Xx睡不醒の牛仔莓果派对脆.bdi",
-      "thumb": "Xx睡不醒の牛仔莓果派对脆.bdi_py_26_light_thumb.png",
-      "full": "Xx睡不醒の牛仔莓果派对脆.bdi_py_26_light_thumb.png",
-      "file_id": "9a8c46d091e9e1b2c3764815db02fe4b"
-    },
-    {
-      "name": "Xx睡不醒の牛仔莓果派对",
       "file": "Xx睡不醒の牛仔莓果派对脆.bds",
       "thumb": "Xx睡不醒の牛仔莓果派对脆.bds_py_26_light_thumb.png",
       "full": "Xx睡不醒の牛仔莓果派对脆.bds_py_26_light_thumb.png",
       "file_id": "7651af08c5509004ac398ead4ef3b43c"
+    },
+    {
+      "name": "Xx睡不醒の牛仔莓果派对",
+      "file": "Xx睡不醒の牛仔莓果派对脆.bdi",
+      "thumb": "Xx睡不醒の牛仔莓果派对脆.bdi_py_26_light_thumb.png",
+      "full": "Xx睡不醒の牛仔莓果派对脆.bdi_py_26_light_thumb.png",
+      "file_id": "9a8c46d091e9e1b2c3764815db02fe4b"
     }
   ]
 }
