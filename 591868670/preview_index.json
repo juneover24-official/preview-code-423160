@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "591868670",
-  "updated_at": "2026-10-07T04:40:23+00:00",
+  "updated_at": "2026-10-07T04:41:59+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の牛仔莓果派对",
@@ -40,13 +40,6 @@
     },
     {
       "name": "Xx睡不醒の萌宠烘焙屋",
-      "file": "Xx睡不醒の萌宠烘焙屋脆-无背景.bdi",
-      "thumb": "Xx睡不醒の萌宠烘焙屋脆-无背景.bdi_py_26_light_thumb.png",
-      "full": "Xx睡不醒の萌宠烘焙屋脆-无背景.bdi_py_26_light_thumb.png",
-      "file_id": "f0df47e707dda15e26b841d97150d29c"
-    },
-    {
-      "name": "Xx睡不醒の萌宠烘焙屋",
       "file": "Xx睡不醒の萌宠烘焙屋闷-无背景.bdi",
       "thumb": "Xx睡不醒の萌宠烘焙屋闷-无背景.bdi_py_26_light_thumb.png",
       "full": "Xx睡不醒の萌宠烘焙屋闷-无背景.bdi_py_26_light_thumb.png",
@@ -72,6 +65,13 @@
       "thumb": "Xx睡不醒の萌宠烘焙屋闷.bdi_py_26_light_thumb.png",
       "full": "Xx睡不醒の萌宠烘焙屋闷.bdi_py_26_light_thumb.png",
       "file_id": "d1f650fc8b9c3eedbf3ff4ea58f2c58f"
+    },
+    {
+      "name": "Xx睡不醒の萌宠烘焙屋",
+      "file": "Xx睡不醒の萌宠烘焙屋脆-无背景.bdi",
+      "thumb": "Xx睡不醒の萌宠烘焙屋脆-无背景.bdi_py_26_light_thumb.png",
+      "full": "Xx睡不醒の萌宠烘焙屋脆-无背景.bdi_py_26_light_thumb.png",
+      "file_id": "f0df47e707dda15e26b841d97150d29c"
     }
   ]
 }
