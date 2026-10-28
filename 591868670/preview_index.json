@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "591868670",
-  "updated_at": "2026-10-28T03:46:58+00:00",
+  "updated_at": "2026-10-28T03:47:33+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の牛仔莓果派对",
@@ -100,6 +100,13 @@
       "thumb": "Xx睡不醒の深夜小食堂闷.bdi_py_26_light_thumb.png",
       "full": "Xx睡不醒の深夜小食堂闷.bdi_py_26_light_thumb.png",
       "file_id": "05c18a3cdae1400c543e272a18df7d67"
+    },
+    {
+      "name": "Xx睡不醒の深夜小食堂",
+      "file": "Xx睡不醒の深夜小食堂脆.bdi",
+      "thumb": "Xx睡不醒の深夜小食堂脆.bdi_py_26_light_thumb.png",
+      "full": "Xx睡不醒の深夜小食堂脆.bdi_py_26_light_thumb.png",
+      "file_id": "0a1746900b876072b8472a7d9690fd27"
     }
   ]
 }
