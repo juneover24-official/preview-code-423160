@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "1121708946",
-  "updated_at": "2026-11-01T06:31:58+00:00",
+  "updated_at": "2026-11-01T06:32:40+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の橘喵下午茶",
@@ -37,6 +37,13 @@
       "thumb": "Xx睡不醒の橘喵下午茶闷.bds_py_26_light_thumb.png",
       "full": "Xx睡不醒の橘喵下午茶闷.bds_py_26_light_thumb.png",
       "file_id": "b764b2fc5a23e2d139b7cdee089ebb3c"
+    },
+    {
+      "name": "Xx睡不醒の橘喵下午茶",
+      "file": "Xx睡不醒の橘喵下午茶闷-无背景.bdi",
+      "thumb": "Xx睡不醒の橘喵下午茶闷-无背景.bdi_py_26_light_thumb.png",
+      "full": "Xx睡不醒の橘喵下午茶闷-无背景.bdi_py_26_light_thumb.png",
+      "file_id": "ace7ec5acc2e9a367854f7e7881a9e45"
     }
   ]
 }
