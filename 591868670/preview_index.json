@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "591868670",
-  "updated_at": "2026-11-04T16:49:50+00:00",
+  "updated_at": "2026-11-04T16:50:36+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の牛仔莓果派对",
@@ -198,6 +198,13 @@
       "thumb": "Xx睡不醒の修勾脆.bds_py_26_light_thumb.png",
       "full": "Xx睡不醒の修勾脆.bds_py_26_light_thumb.png",
       "file_id": "4a62d31c4e47b0317ba9853856c010bf"
+    },
+    {
+      "name": "Xx睡不醒の顽皮侯",
+      "file": "Xx睡不醒の顽皮猴闷.bdi",
+      "thumb": "Xx睡不醒の顽皮猴闷.bdi_py_26_light_thumb.png",
+      "full": "Xx睡不醒の顽皮猴闷.bdi_py_26_light_thumb.png",
+      "file_id": "6ea2d2c5c945225c3bb902c00763f68e"
     }
   ]
 }
