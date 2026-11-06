@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "850632798",
-  "updated_at": "2026-11-06T05:04:23+00:00",
+  "updated_at": "2026-11-06T05:04:27+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の趣味熊",
@@ -44,6 +44,13 @@
       "thumb": "Xx睡不醒の多巴胺记事簿脆.bdi_py_26_light_thumb.png",
       "full": "Xx睡不醒の多巴胺记事簿脆.bdi_py_26_light_thumb.png",
       "file_id": "dda84078a1e89f326fc378a40a6b3845"
+    },
+    {
+      "name": "Xx睡不醒の多巴胺记事簿",
+      "file": "Xx睡不醒の多巴胺记事簿脆.bds",
+      "thumb": "Xx睡不醒の多巴胺记事簿脆.bds_py_26_light_thumb.png",
+      "full": "Xx睡不醒の多巴胺记事簿脆.bds_py_26_light_thumb.png",
+      "file_id": "c6e7ab8bff4b8a2b4b0533d52eeee24f"
     }
   ]
 }
