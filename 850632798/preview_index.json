@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "850632798",
-  "updated_at": "2026-11-12T04:49:47+00:00",
+  "updated_at": "2026-11-12T04:50:22+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の趣味熊",
@@ -89,13 +89,6 @@
     },
     {
       "name": "Xx睡不醒の小熊的番茄屋",
-      "file": "Xx睡不醒の小熊的番茄屋.bds",
-      "thumb": "Xx睡不醒の小熊的番茄屋.bds_py_26_light_thumb.png",
-      "full": "Xx睡不醒の小熊的番茄屋.bds_py_26_light_thumb.png",
-      "file_id": "5f5ed55adf4eb7f677addb1b6db9309a"
-    },
-    {
-      "name": "Xx睡不醒の小熊的番茄屋",
       "file": "Xx睡不醒の小熊的番茄屋无漂浮.bdi",
       "thumb": "Xx睡不醒の小熊的番茄屋无漂浮.bdi_py_26_light_thumb.png",
       "full": "Xx睡不醒の小熊的番茄屋无漂浮.bdi_py_26_light_thumb.png",
@@ -114,6 +107,13 @@
       "thumb": "Xx睡不醒の小熊的番茄屋无漂浮.bds_py_26_light_thumb.png",
       "full": "Xx睡不醒の小熊的番茄屋无漂浮.bds_py_26_light_thumb.png",
       "file_id": "417dd7068e33f8e59816b8ded91c9fe5"
+    },
+    {
+      "name": "Xx睡不醒の小熊的番茄屋",
+      "file": "Xx睡不醒の小熊的番茄屋.bds",
+      "thumb": "Xx睡不醒の小熊的番茄屋.bds_py_26_light_thumb.png",
+      "full": "Xx睡不醒の小熊的番茄屋.bds_py_26_light_thumb.png",
+      "file_id": "5f5ed55adf4eb7f677addb1b6db9309a"
     }
   ]
 }
