@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "850632798",
-  "updated_at": "2026-11-14T05:31:07+00:00",
+  "updated_at": "2026-11-14T05:31:14+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の趣味熊",
@@ -128,6 +128,13 @@
       "thumb": "Xx睡不醒の土豆流浪记无漂浮.bds_py_26_light_thumb.png",
       "full": "Xx睡不醒の土豆流浪记无漂浮.bds_py_26_light_thumb.png",
       "file_id": "56ae5d7d9034c450f2297814d0764242"
+    },
+    {
+      "name": "Xx睡不醒の土豆流浪记",
+      "file": "Xx睡不醒の土豆流浪记.bdi",
+      "thumb": "Xx睡不醒の土豆流浪记.bdi_py_26_light_thumb.png",
+      "full": "Xx睡不醒の土豆流浪记.bdi_py_26_light_thumb.png",
+      "file_id": "5efe6247fcc921128cf71ce221432187"
     }
   ]
 }
