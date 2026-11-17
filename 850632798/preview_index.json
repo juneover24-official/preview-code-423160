@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "850632798",
-  "updated_at": "2026-11-17T06:58:54+00:00",
+  "updated_at": "2026-11-17T06:59:15+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の趣味熊",
@@ -163,6 +163,13 @@
       "thumb": "Xx睡不醒の棕毛狗日常脆.bds_py_26_light_thumb.png",
       "full": "Xx睡不醒の棕毛狗日常脆.bds_py_26_light_thumb.png",
       "file_id": "5c9d4a133466decceea4dabe1a7cd080"
+    },
+    {
+      "name": "Xx睡不醒の棕毛狗日常",
+      "file": "Xx睡不醒の棕毛狗日常闷.bds",
+      "thumb": "Xx睡不醒の棕毛狗日常闷.bds_py_26_light_thumb.png",
+      "full": "Xx睡不醒の棕毛狗日常闷.bds_py_26_light_thumb.png",
+      "file_id": "44a1ecfcbde3043b9a4ea6c416944f49"
     }
   ]
 }
