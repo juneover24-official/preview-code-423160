@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "850632798",
-  "updated_at": "2026-11-22T05:45:51+00:00",
+  "updated_at": "2026-11-22T05:46:15+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の趣味熊",
@@ -208,13 +208,6 @@
     },
     {
       "name": "Xx睡不醒の打卡游乐园",
-      "file": "Xx睡不醒の打卡游乐园脆.bdi",
-      "thumb": "Xx睡不醒の打卡游乐园脆.bdi_py_26_light_thumb.png",
-      "full": "Xx睡不醒の打卡游乐园脆.bdi_py_26_light_thumb.png",
-      "file_id": "e9f1ba80de37492e25d70496a5282ea7"
-    },
-    {
-      "name": "Xx睡不醒の打卡游乐园",
       "file": "Xx睡不醒の打卡游乐园闷.bdi",
       "thumb": "Xx睡不醒の打卡游乐园闷.bdi_py_26_light_thumb.png",
       "full": "Xx睡不醒の打卡游乐园闷.bdi_py_26_light_thumb.png",
@@ -226,6 +219,13 @@
       "thumb": "Xx睡不醒の打卡游乐园脆.bds_py_26_light_thumb.png",
       "full": "Xx睡不醒の打卡游乐园脆.bds_py_26_light_thumb.png",
       "file_id": "4d086d336b703c3eb5b1fc4a6a0a8aa8"
+    },
+    {
+      "name": "Xx睡不醒の打卡游乐园",
+      "file": "Xx睡不醒の打卡游乐园脆.bdi",
+      "thumb": "Xx睡不醒の打卡游乐园脆.bdi_py_26_light_thumb.png",
+      "full": "Xx睡不醒の打卡游乐园脆.bdi_py_26_light_thumb.png",
+      "file_id": "e9f1ba80de37492e25d70496a5282ea7"
     }
   ]
 }
