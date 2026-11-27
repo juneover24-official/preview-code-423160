@@ -1,7 +1,7 @@
 {
   "qq_number": "423160",
   "group_number": "850632798",
-  "updated_at": "2026-11-27T08:31:16+00:00",
+  "updated_at": "2026-11-27T08:31:27+00:00",
   "skins": [
     {
       "name": "Xx睡不醒の趣味熊",
@@ -257,17 +257,17 @@
     },
     {
       "name": "Xx睡不醒の萌友手帐贴",
-      "file": "Xx睡不醒の萌友手帐贴闷.bds",
-      "thumb": "Xx睡不醒の萌友手帐贴闷.bds_py_26_light_thumb.png",
-      "full": "Xx睡不醒の萌友手帐贴闷.bds_py_26_light_thumb.png",
-      "file_id": "f9188f9488f2bf9ccbe04d892b240255"
-    },
-    {
-      "name": "Xx睡不醒の萌友手帐贴",
       "file": "Xx睡不醒の萌友手帐贴闷.bdi",
       "thumb": "Xx睡不醒の萌友手帐贴闷.bdi_py_26_light_thumb.png",
       "full": "Xx睡不醒の萌友手帐贴闷.bdi_py_26_light_thumb.png",
       "file_id": "1f009d65b06a62e93d9a4134d228962f"
+    },
+    {
+      "name": "Xx睡不醒の萌友手帐贴",
+      "file": "Xx睡不醒の萌友手帐贴闷.bds",
+      "thumb": "Xx睡不醒の萌友手帐贴闷.bds_py_26_light_thumb.png",
+      "full": "Xx睡不醒の萌友手帐贴闷.bds_py_26_light_thumb.png",
+      "file_id": "f9188f9488f2bf9ccbe04d892b240255"
     }
   ]
 }
